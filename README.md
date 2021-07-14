@@ -4,5 +4,5 @@
 
 ### You have to configure [appsettings.json](https://github.com/raminquliyev/TwitterRetweetBot/blob/master/appsettings.json) file after cloning.
 
-### That is it (:    It is ready to run.
+## That is it :)  It is ready to run.
 
